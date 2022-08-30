@@ -1,0 +1,4 @@
+git status
+git fetch origin master
+git pull
+touch up_to_date
